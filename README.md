@@ -1,5 +1,13 @@
 # AI鬼畜大师
 
+安装：
+
+```bash
+git clone https://github.com/Zhangyanbo/guichu_ai
+cd guichu_ai
+python setup.py install
+```
+
 ## 核心功能
 
 ### 一、典故搜索
